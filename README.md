@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+Created a one page Rails application using React, Bootstrap and PostgreSQL. When hosted in my local server the formatting is different from the Heroku hosted version. My next step is sorting out the formatting and adding more videos to the site.
